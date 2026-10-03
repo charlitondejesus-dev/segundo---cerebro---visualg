@@ -51,3 +51,13 @@ O `para` pode ser usado quando sabemos a quantidade de vezes que queremos repeti
 Por exemplo, podemos usar um contador para repetir uma ação de 1 até 10.
 
 **Fontes:** Dicas de Programação, DevMedia e Manual do VisuAlg 3.0.
+
+## Comportamento do segundo cérebro
+
+O segundo cérebro foi configurado para agir como um professor de lógica de programação para iniciantes, com foco em VisuAlg.
+
+A orientação foi explicar os conteúdos de forma simples e passo a passo, utilizando as fontes adicionadas ao notebook e exemplos em VisuAlg quando fossem necessários.
+
+Também foi orientado que o segundo cérebro diferenciasse os comandos `enquanto`, `repita` e `para`, explicasse os símbolos quando necessário e relacionasse os conteúdos com exemplos práticos de menus e programas.
+
+O objetivo dessa configuração foi ajudar na compreensão e na revisão dos conteúdos, e não apenas fornecer respostas prontas.
