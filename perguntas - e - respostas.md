@@ -66,4 +66,10 @@ Também foi orientado que o segundo cérebro diferenciasse os comandos `enquanto
 
 O objetivo dessa configuração foi ajudar na compreensão e na revisão dos conteúdos, e não apenas fornecer respostas prontas.
 
+## Link do notebook
+
+O notebook utilizado neste projeto pode ser acessado pelo link abaixo:
+
+[NotebookLM - Segundo Cérebro Visualg](https://notebook.google.com/notebook/8ee00b86-fbdb-4e62-af95-c25c8196113c/preview)
+
 
