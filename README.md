@@ -32,3 +32,17 @@ As fontes utilizadas no projeto serão selecionadas de acordo com a relação qu
 Também serão utilizados materiais de estudo e exemplos práticos para relacionar a parte teórica com a programação em Visualg.
 
 Durante o projeto, serão registrados os materiais produzidos pelo notebook, como mapa mental, slides, resumo em áudio e outras informações que possam ajudar na compreensão do conteúdo.
+
+## Fontes utilizadas e por que foram escolhidas
+
+As principais fontes utilizadas neste projeto foram:
+
+- Manual do VisuAlg 3.0: foi utilizado para consultar informações sobre os comandos e a estrutura do VisuAlg.
+
+- Dicas de Programação: foi utilizado para estudar as estruturas de repetição e observar exemplos voltados para quem está começando a aprender programação.
+
+- DevMedia: foi utilizado como material de apoio para entender as estruturas de repetição e comparar as explicações sobre `enquanto`, `repita` e `para`.
+
+- Código da lanchonete: foi utilizado como exemplo prático do próprio estudo, permitindo observar como a estrutura `repita ... ate` foi aplicada na construção dos menus e submenus.
+
+As fontes foram escolhidas porque estão relacionadas diretamente ao tema do projeto e ajudam a relacionar a parte teórica com a prática.
