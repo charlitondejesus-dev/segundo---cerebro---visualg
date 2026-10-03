@@ -1,4 +1,4 @@
-# Perguntas e Respostas
+## Perguntas e Respostas
 
 Aqui estão algumas perguntas que fiz ao segundo cérebro sobre estruturas de repetição no VisuAlg.
 
@@ -56,10 +56,6 @@ Por exemplo, podemos usar um contador para repetir uma ação de 1 até 10.
 
 O segundo cérebro foi configurado para agir como um professor de lógica de programação para iniciantes, com foco em VisuAlg.
 
-## Comportamento do segundo cérebro
-
-O segundo cérebro foi configurado para agir como um professor de lógica de programação para iniciantes, com foco em VisuAlg.
-
 A orientação foi explicar os conteúdos de forma simples e passo a passo, utilizando as fontes adicionadas ao notebook e exemplos em VisuAlg quando fossem necessários.
 
 Também foi orientado que o segundo cérebro diferenciasse os comandos `enquanto`, `repita` e `para`, explicasse os símbolos quando necessário e relacionasse os conteúdos com exemplos práticos de menus e programas.
@@ -71,5 +67,3 @@ O objetivo dessa configuração foi ajudar na compreensão e na revisão dos con
 O notebook utilizado neste projeto pode ser acessado pelo link abaixo:
 
 [NotebookLM - Segundo Cérebro Visualg](https://notebook.google.com/notebook/8ee00b86-fbdb-4e62-af95-c25c8196113c/preview)
-
-
